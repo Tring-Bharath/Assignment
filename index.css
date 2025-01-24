@@ -3,9 +3,13 @@ title
     color: red;
 }
 div{
-
+    padding: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
 .container
 {
-    
+    padding: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
