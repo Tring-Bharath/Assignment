@@ -16,9 +16,7 @@ class Student
     }
     class sports
     {
-        boolean cricket=false;
-        boolean football=false;
-        boolean athletics=false;
+        
     }
 }
 class oops
